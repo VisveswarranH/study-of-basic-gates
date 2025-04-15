@@ -1,6 +1,6 @@
-## Developed by: Nirmal N
+## Developed by: Visveswarran Harikrishnan
 
-## RegisterNumber: 212223240107
+## RegisterNumber: 212224110063
 
 Exp no :  1 - Study of basic gates
 
